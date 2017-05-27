@@ -1,13 +1,13 @@
 import React, { Component } from 'react'
-import { Provider } from "react-redux"
 
 //State
-import store from "./State"
+import { Provider } from "react-redux"
+import store from "./state"
 
 //Components
-import ChatBox from './Components/ChatBox/ChatBox'
-import MessageBox from './Components/MessageBox/MessageBox'
-import Sidebar from './Components/Sidebar/Sidebar'
+import ChatBox from './components/chatBox'
+import MessageBox from './components/messageBox'
+import Sidebar from './components/sidebar'
 
 //Material UI
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
