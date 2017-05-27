@@ -1,0 +1,5004 @@
+{
+  "resultsCount": 6,
+  "results": [
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083693,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1490327698862,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1490327698862"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083693)",
+      "uniqueId": "6083693",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083494,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1484177506913"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083494)",
+      "uniqueId": "6083494",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083695,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1490328516002,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1490328516002"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083695)",
+      "uniqueId": "6083695",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083694,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1490328015037,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1490328015037"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083694)",
+      "uniqueId": "6083694",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083506,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1484362297650"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083506)",
+      "uniqueId": "6083506",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083691,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1490327677773,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1490327677773"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083691)",
+      "uniqueId": "6083691",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083691,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1490327677773,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1490327677773"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": false,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "New Folder (6083691)",
+      "uniqueId": "6083691",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6083692,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1490327692090,
+      "lastUpdated": 1490327692090,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 6083691,
+          "layerLocationType": 3
+        }
+      ],
+      "lastModified": {
+        "date": "1490327692090"
+      },
+      "createdDate": {
+        "date": "1490327692090"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {
+        "edit": {
+          "include": {}
+        },
+        "view": {
+          "include": {
+            "groups": [
+              3000619
+            ]
+          }
+        },
+        "modifyFeatures": {
+          "include": {}
+        }
+      },
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "displayName": "New Folder (6083692)",
+      "uniqueId": "6083692",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "test",
+      "id": 6086387,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1495783505911,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 3000619,
+          "layerLocationType": 4
+        }
+      ],
+      "lastModified": {
+        "date": "1495783507856"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {},
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": false,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "relatedPortalNames": {
+        "3000619": "testing group brocolli"
+      },
+      "displayName": "test (6086387)",
+      "uniqueId": "6086387",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    },
+    {
+      "type": "filefolder",
+      "title": "New Folder",
+      "id": 6086388,
+      "layerSourceInfo": {
+        "layerJoiners": []
+      },
+      "created": 1495783510644,
+      "lastUpdated": 1495783510644,
+      "isContentSearchable": false,
+      "isSearchAllowed": false,
+      "parentLocations": [
+        {
+          "parentId": 6086387,
+          "layerLocationType": 3
+        }
+      ],
+      "lastModified": {
+        "date": "1495783510644"
+      },
+      "createdDate": {
+        "date": "1495783510644"
+      },
+      "formats": [],
+      "attributeMap": {},
+      "permissions": {
+        "edit": {
+          "include": {}
+        },
+        "view": {
+          "include": {
+            "groups": [
+              3000619
+            ]
+          }
+        },
+        "modifyFeatures": {
+          "include": {}
+        }
+      },
+      "owner": {
+        "user": 1002228,
+        "group": 3000619
+      },
+      "styleRules": [],
+      "createdByGroup": {
+        "title": "testing group brocolli",
+        "description": "<p>esting testing testing 0.4268604505341ttesting testing testing 0.4268604505341 </p>",
+        "logo": "",
+        "language": "",
+        "featured": 0,
+        "members": [
+          {
+            "userId": 1002229,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393
+          },
+          {
+            "userId": 1002227,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.24756869263@smtp-relay.sendinblue.com>",
+            "created": 1490064016471
+          },
+          {
+            "userId": 1002236,
+            "hasAccepted": false,
+            "isConfirmed": true,
+            "isAdmin": false,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701050018.58858854505@smtp-relay.sendinblue.com>"
+          }
+        ],
+        "domainInfo": {
+          "subdomain": "testing-group-brocolli",
+          "domain": "",
+          "useDomain": false,
+          "deploymentVersion": 0
+        },
+        "enabled": true,
+        "settings": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "places": [
+          3687919
+        ],
+        "id": 3000619,
+        "owner": {
+          "user": 1002229
+        },
+        "created": 1483140350605,
+        "lastUpdated": 1495783159232,
+        "cspacesFolderId": 6085593,
+        "groupCSpaceId": 571,
+        "searchFileContextId": 1711,
+        "createdByUser": {
+          "lastUpdated": null,
+          "id": 1002229,
+          "created": 1484677786851,
+          "access": 1493260650592,
+          "login": 1493260343505,
+          "lastLoginAttempt": null,
+          "admin": false,
+          "confirmed": true,
+          "isInternalService": null,
+          "loginCount": 63,
+          "tokenCount": 160,
+          "loginattempts": 0,
+          "lastLoginMethod": "site",
+          "username": "testing+auth_super_user@intele",
+          "picture": null,
+          "remoteIp": null,
+          "firstName": "auth_super_user",
+          "lastName": "testing",
+          "email": "testing+auth_super_user@intelesense.net",
+          "organization": null,
+          "biography": null,
+          "language": "",
+          "timezone_name": "",
+          "phone": null,
+          "init": "testing+auth_super_user@intelesense.net",
+          "places": null,
+          "aois": null,
+          "location": null,
+          "fullName": "auth_super_user testing",
+          "topLevelAreasOfInterest": [],
+          "geographicAreas": [],
+          "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+          "areasOfInterest": [],
+          "memberships": [
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000622,
+              "groupId": 3000622
+            },
+            {
+              "userId": 1002229,
+              "hasAccepted": true,
+              "isConfirmed": true,
+              "isAdmin": true,
+              "portalId": 3000619,
+              "groupId": 3000619
+            }
+          ],
+          "discovery": null
+        },
+        "geographicAreas": [
+          {
+            "id": 3687919,
+            "name": "California",
+            "country": "CO",
+            "timezone": "America/Bogota",
+            "featureclass": "A",
+            "featurecode": "ADM2",
+            "location": {
+              "lon": -72.95815,
+              "lat": 7.3434
+            }
+          }
+        ],
+        "userPortalAdmin": true,
+        "confirmedMemberCount": 4,
+        "requiresConfirmation": true,
+        "followedDataFeeds": [],
+        "unconfirmedMemberCount": 0,
+        "settingsWithDefaults": {
+          "groupViews": {
+            "total": 1,
+            "statistics": [
+              {
+                "count": 1,
+                "time": 1495756800000
+              }
+            ]
+          },
+          "startService": {
+            "forum": 6,
+            "calendar": 1,
+            "menu": 10,
+            "blog": 1,
+            "dashboard": 1
+          },
+          "portalCoverType": "portalCoverImage",
+          "portalPageOptions": {
+            "/inteleview": {
+              "layout": "cover"
+            },
+            "/dashboard": {
+              "coverOffset": -5,
+              "coverImage": "https://static.collaborate.org/assets/images/covers/lightbulb.jpg"
+            },
+            "/dashboard/test": {},
+            "/blog": {
+              "layout": "cover"
+            },
+            "/dashboard/home": {},
+            "/dashboard/testing": {}
+          },
+          "portalCoverImage": "https://static.collaborate.org/assets/images/covers/rescue.jpg",
+          "portalMainMenu": [
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.home",
+              "title": "HOME",
+              "params": {},
+              "target": "app.portal.home"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.members",
+              "title": "MEMBERS",
+              "params": {},
+              "target": "app.portal.members"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.forum.context.view",
+              "title": "FORUMS",
+              "params": {},
+              "target": "app.portal.forum.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.blog.context.view",
+              "title": "BLOG",
+              "params": {},
+              "target": "app.portal.blog.context.view"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.events.calendar",
+              "title": "CALENDAR",
+              "params": {},
+              "target": "app.portal.events.calendar"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.inteleview",
+              "title": "IV_INTELEVIEW",
+              "params": {},
+              "target": "app.portal.inteleview"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.fileManager",
+              "title": "FM_FILE_MANAGER",
+              "params": {},
+              "target": "app.portal.fileManager"
+            },
+            {
+              "parent": 0,
+              "external": false,
+              "id": "app.portal.layerManager",
+              "title": "LM_LAYER_MANAGER",
+              "params": {},
+              "target": "app.portal.layerManager"
+            }
+          ],
+          "defaultDiscussionForum": 1620,
+          "portalCoverSize": "portalCoverMedium",
+          "portalCoverOffset": -23,
+          "portalUploadedImages": []
+        },
+        "portalAdministratorCount": 2,
+        "suggestedDataFeeds": [],
+        "topLevelAreasOfInterest": [],
+        "memberCount": 4,
+        "maxLongitude": -72.95815,
+        "maxLatitude": 7.3434,
+        "minLatitude": 7.3434,
+        "minLongitude": -72.95815,
+        "userMember": true,
+        "userOwner": false,
+        "computedLogo": "https://static.collaborate.org/assets/images/group-icon-default.jpg"
+      },
+      "createdByUser": {
+        "lastUpdated": null,
+        "id": 1002228,
+        "created": 1486500341997,
+        "access": 1495783195548,
+        "login": 1495783149482,
+        "lastLoginAttempt": null,
+        "admin": false,
+        "confirmed": true,
+        "isInternalService": null,
+        "loginCount": 401,
+        "tokenCount": 369,
+        "loginattempts": 0,
+        "lastLoginMethod": "site",
+        "username": "testing+auth_admin_user@intele",
+        "picture": null,
+        "remoteIp": null,
+        "firstName": "auth_admin_user",
+        "lastName": "testing",
+        "email": "testing+auth_admin_user@intelesense.net",
+        "organization": null,
+        "biography": null,
+        "language": "",
+        "timezone_name": "",
+        "phone": null,
+        "init": "testing+auth_admin_user@intelesense.net",
+        "places": null,
+        "aois": null,
+        "location": null,
+        "fullName": "auth_admin_user testing",
+        "topLevelAreasOfInterest": [],
+        "geographicAreas": [],
+        "computedPicture": "https://static.collaborate.org/assets/images/user-unknown.jpeg",
+        "areasOfInterest": [],
+        "memberships": [
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000620,
+            "groupId": 3000620
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "invitedByIds": [
+              1002229
+            ],
+            "lastInvitationEmailConfirmationId": "<201701021940.30813047941@smtp-relay.sendinblue.com>",
+            "created": 1490063777393,
+            "portalId": 3000619,
+            "groupId": 3000619
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 3000618,
+            "groupId": 3000618
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000162,
+            "groupId": 4000162
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000144,
+            "groupId": 4000144
+          },
+          {
+            "userId": 1002228,
+            "hasAccepted": true,
+            "isConfirmed": true,
+            "isAdmin": true,
+            "portalId": 4000141,
+            "groupId": 4000141
+          }
+        ],
+        "discovery": null
+      },
+      "layerPlaces": [],
+      "directMatch": true,
+      "inRoot": false,
+      "inGroupRoot": false,
+      "displayName": "New Folder (6086388)",
+      "uniqueId": "6086388",
+      "isDynamic": false,
+      "isAdhoc": false,
+      "isPlacemarkBased": false,
+      "isLayerFolder": false,
+      "isGeolocated": false,
+      "isImagery": false,
+      "isVirtual": false,
+      "isFileFolder": true,
+      "isFolder": true
+    }
+  ],
+  "areResultsTruncated": false
+}
