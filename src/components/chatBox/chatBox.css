@@ -1,0 +1,19 @@
+.chat-box-container {
+    border-left:1px solid #ddd;
+}
+.chat-box {
+    width:100%; 
+    height: calc(80vh - 55px);
+
+}
+textarea {
+    border:0px;
+    width:100%;
+    height:20vh;
+    resize: none;
+    padding:10px;
+    border-top:1px solid #ddd;
+}
+textarea:focus{
+    outline: none !important;
+}

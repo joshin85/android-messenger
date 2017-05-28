@@ -1,6 +1,6 @@
 export default function reducer(state={
     sidebar: {
-        open: false
+        open: true
     },
     fetching: false,
     fetched: false,

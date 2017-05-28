@@ -4,36 +4,44 @@ import React, { Component } from 'react'
 import { Provider } from "react-redux"
 import store from "./state"
 
+//Styles
+import muiTheme from './styles/theme'
+import logo from './logo.svg'
+import './App.css'
+import './styles/bootstrap/bootstrap.min.css'
+
 //Components
-import ChatBox from './components/chatBox'
 import MessageBox from './components/messageBox'
 import Sidebar from './components/sidebar'
 
 //Material UI
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
+import darkBaseTheme from 'material-ui/styles/baseThemes/darkBaseTheme'
+import getMuiTheme from 'material-ui/styles/getMuiTheme'
 import injectTapEventPlugin from 'react-tap-event-plugin'
+import AppBar from 'material-ui/AppBar'
+import {cyan500} from 'material-ui/styles/colors'
 
-import logo from './logo.svg'
-import './App.css'
 
 class App extends Component {
-
+  
   constructor(){
     injectTapEventPlugin()
+    
     super()
   }
 
   render() { 
     return (
-      <MuiThemeProvider>
+      <MuiThemeProvider muiTheme={getMuiTheme(muiTheme)}>
         <Provider store={store}>
-          <div className="App container">
+           
+          <div className="App container-fluid">
             <div className="col-md-3">
-              <MessageBox></MessageBox>
+              <Sidebar></Sidebar>
             </div>
             <div className="col-md-9">
-              <Sidebar></Sidebar>
-              <ChatBox></ChatBox>
+              <MessageBox></MessageBox>
             </div>       
           </div>
         </Provider>
@@ -41,5 +49,6 @@ class App extends Component {
     );
   }
 }
+
 
 export default App;
